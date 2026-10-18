@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>270</integer>
 	<key>copyright</key>
-	<string>Copyright 2026 Mohamed Shiyam (https://github.com/siyamex/Open-Thaana-Font)</string>
+	<string>Copyright 2026 Open Thaana (https://github.com/siyamex/Open-Thaana-Font)</string>
 	<key>descender</key>
 	<integer>-547</integer>
 	<key>familyName</key>
@@ -23,7 +23,7 @@
 	<key>openTypeNameDescription</key>
 	<string>Open Thaana Font</string>
 	<key>openTypeNameDesigner</key>
-	<string>Mohamed Shiyam</string>
+	<string>Open Thaana</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>https://github.com/siyamex/Open-Thaana-Font</string>
 	<key>openTypeNameLicense</key>

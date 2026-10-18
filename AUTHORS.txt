@@ -2,4 +2,4 @@
 
 The primary copyright holders and designers of Open Thaana.
 
-Mohamed Shiyam <https://github.com/siyamex>
+Open Thaana <https://github.com/siyamex/Open-Thaana-Font>

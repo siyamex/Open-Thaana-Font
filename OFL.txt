@@ -1,4 +1,4 @@
-Copyright (c) 2026 Mohamed Shiyam (https://github.com/siyamex/Open-Thaana-Font)
+Copyright (c) 2026 Open Thaana (https://github.com/siyamex/Open-Thaana-Font)
 
 
 

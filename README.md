@@ -1,6 +1,6 @@
 # Open Thaana
 
-A Thaana typeface by Mohamed Shiyam, created with Dhivehi Font Studio (seed 2757242952).
+A Thaana typeface, created with Dhivehi Font Studio (seed 2757242952).
 
 **A free and open font.** Anyone may use, study, modify and redistribute it, including commercially.
 
@@ -100,7 +100,7 @@ In short:
 
 The full text is in [`OFL.txt`](OFL.txt).
 
-Copyright 2026 Mohamed Shiyam. See `AUTHORS.txt` and `FONTLOG.txt`.
+Copyright 2026 Open Thaana. See `AUTHORS.txt` and `FONTLOG.txt`.
 
 ## Contributing
 

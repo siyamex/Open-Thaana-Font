@@ -26,7 +26,7 @@ Generation method: blend
 Reproducible with seed: 2757242952
 
 Open Thaana was produced by blending two earlier Thaana designs, both
-drawn by Mohamed Shiyam, so the whole of the design is his original work.
+drawn for Open Thaana, so the whole of the design is original work.
 2 glyph(s) could not be interpolated because the parents draw them
 with different numbers of contours. Those were taken whole from the
 dominant parent rather than being distorted.
@@ -34,7 +34,7 @@ dominant parent rather than being distorted.
 ChangeLog
 ---------
 
-2026-10-18 (Mohamed Shiyam) 1.000
+2026-10-18 (Open Thaana) 1.000
 - Initial release.
 - Full Thaana coverage, U+0780-U+07B1.
 - GDEF glyph classes and a GPOS mark feature for fili positioning.
@@ -47,7 +47,7 @@ Acknowledgements
 
 When you make a modification, add yourself here with N: W: E: D: lines.
 
-N: Mohamed Shiyam
-E: siyamex2012@gmail.com
+N: Open Thaana
+E: (via the GitHub repository)
 W: https://github.com/siyamex/Open-Thaana-Font
 D: Designer and maintainer of Open Thaana.
