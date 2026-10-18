@@ -1,0 +1,5 @@
+# Authors
+
+The primary copyright holders and designers of Open Thaana.
+
+Mohamed Shiyam <https://github.com/siyamex>

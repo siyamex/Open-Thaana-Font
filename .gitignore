@@ -1,0 +1,23 @@
+# Build output that should be regenerated, not committed
+build/
+dist/
+instance_ufo/
+master_ufo/
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Font editor backups
+*.glyphs~
+*.ufo.bak
+
+# Note: the files in fonts/ ARE committed. Users of an open font project
+# expect to download a ready-to-install binary without building it first.

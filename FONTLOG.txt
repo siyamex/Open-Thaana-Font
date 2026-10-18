@@ -1,0 +1,53 @@
+FONTLOG for Open Thaana
+=======================
+
+This file provides detailed information on the Open Thaana
+font software. This information should be distributed along with the
+Open Thaana fonts and any derivative works.
+
+Basic Font Information
+----------------------
+
+Open Thaana is a Thaana typeface covering the complete
+Unicode Thaana block, U+0780 to U+07B1: all 24 Dhivehi consonants, the 14
+Arabic-derived letters used in loanwords, the ten fili (vowel marks), sukun
+and naa.
+
+The fili are true combining marks with zero advance width, positioned over
+their consonant by a GPOS mark-to-base feature, so Dhivehi text composes
+correctly in any shaping engine.
+
+Units per em: 1000
+Glyph count:  50
+
+
+
+Generation method: blend
+Reproducible with seed: 2757242952
+
+Open Thaana was produced by blending two earlier Thaana designs, both
+drawn by Mohamed Shiyam, so the whole of the design is his original work.
+2 glyph(s) could not be interpolated because the parents draw them
+with different numbers of contours. Those were taken whole from the
+dominant parent rather than being distorted.
+
+ChangeLog
+---------
+
+2026-10-18 (Mohamed Shiyam) 1.000
+- Initial release.
+- Full Thaana coverage, U+0780-U+07B1.
+- GDEF glyph classes and a GPOS mark feature for fili positioning.
+- TrueType, CFF, WOFF and WOFF2 builds; UFO 3 source included.
+
+(Record every release here: date, who made it, version, and what changed.)
+
+Acknowledgements
+----------------
+
+When you make a modification, add yourself here with N: W: E: D: lines.
+
+N: Mohamed Shiyam
+E: siyamex2012@gmail.com
+W: https://github.com/siyamex/Open-Thaana-Font
+D: Designer and maintainer of Open Thaana.

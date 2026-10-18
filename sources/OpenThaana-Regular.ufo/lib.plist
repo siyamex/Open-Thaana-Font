@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>public.glyphOrder</key>
+  <array>
+    <string>uni0780</string>
+    <string>uni0781</string>
+    <string>uni0782</string>
+    <string>uni0783</string>
+    <string>uni0784</string>
+    <string>uni0785</string>
+    <string>uni0786</string>
+    <string>uni0787</string>
+    <string>uni0788</string>
+    <string>uni0789</string>
+    <string>uni078A</string>
+    <string>uni078B</string>
+    <string>uni078C</string>
+    <string>uni078D</string>
+    <string>uni078E</string>
+    <string>uni078F</string>
+    <string>uni0790</string>
+    <string>uni0791</string>
+    <string>uni0792</string>
+    <string>uni0793</string>
+    <string>uni0794</string>
+    <string>uni0795</string>
+    <string>uni0796</string>
+    <string>uni0797</string>
+    <string>uni0798</string>
+    <string>uni0799</string>
+    <string>uni079A</string>
+    <string>uni079B</string>
+    <string>uni079C</string>
+    <string>uni079D</string>
+    <string>uni079E</string>
+    <string>uni079F</string>
+    <string>uni07A0</string>
+    <string>uni07A1</string>
+    <string>uni07A2</string>
+    <string>uni07A3</string>
+    <string>uni07A4</string>
+    <string>uni07A5</string>
+    <string>uni07A6</string>
+    <string>uni07A7</string>
+    <string>uni07A8</string>
+    <string>uni07A9</string>
+    <string>uni07AA</string>
+    <string>uni07AB</string>
+    <string>uni07AC</string>
+    <string>uni07AD</string>
+    <string>uni07AE</string>
+    <string>uni07AF</string>
+    <string>uni07B0</string>
+    <string>uni07B1</string>
+  </array>
+  <key>com.dhivehifontstudio.generator</key>
+  <string>Dhivehi Font Studio</string>
+</dict>
+</plist>

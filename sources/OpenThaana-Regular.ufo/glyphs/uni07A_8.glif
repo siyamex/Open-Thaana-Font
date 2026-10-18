@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni07A8" format="2">
+  <advance width="0"/>
+  <unicode hex="07A8"/>
+  <outline>
+    <contour>
+      <point x="358.524" y="-280.476" type="line"/>
+      <point x="358.524" y="-280.476"/>
+      <point x="349.743" y="-301.28"/>
+      <point x="342.561" y="-309.704" type="curve"/>
+      <point x="335.379" y="-318.128"/>
+      <point x="324.549" y="-324.314"/>
+      <point x="315.431" y="-331.019" type="curve"/>
+      <point x="306.312" y="-337.724"/>
+      <point x="297.354" y="-343.69"/>
+      <point x="287.848" y="-349.934" type="curve"/>
+      <point x="278.343" y="-356.177"/>
+      <point x="268.3" y="-362.489"/>
+      <point x="258.397" y="-368.483" type="curve"/>
+      <point x="248.494" y="-374.476"/>
+      <point x="238.424" y="-380.265"/>
+      <point x="228.429" y="-385.894" type="curve"/>
+      <point x="218.435" y="-391.524"/>
+      <point x="208.591" y="-396.838"/>
+      <point x="198.432" y="-402.26" type="curve"/>
+      <point x="188.272" y="-407.681"/>
+      <point x="177.74" y="-413.216"/>
+      <point x="167.473" y="-418.423" type="curve"/>
+      <point x="157.206" y="-423.63"/>
+      <point x="147.158" y="-428.643"/>
+      <point x="136.83" y="-433.501" type="curve"/>
+      <point x="126.502" y="-438.36"/>
+      <point x="116.382" y="-443.406"/>
+      <point x="105.505" y="-447.574" type="curve"/>
+      <point x="94.627" y="-451.741"/>
+      <point x="82.411" y="-457.752"/>
+      <point x="71.566" y="-458.509" type="curve"/>
+      <point x="60.722" y="-459.265"/>
+      <point x="40.436" y="-452.113"/>
+      <point x="40.436" y="-452.113" type="curve"/>
+      <point x="24.65" y="-423.12" type="line"/>
+      <point x="24.65" y="-423.12"/>
+      <point x="33.395" y="-401.333"/>
+      <point x="41.389" y="-394.234" type="curve"/>
+      <point x="49.382" y="-387.135"/>
+      <point x="62.111" y="-384.815"/>
+      <point x="72.61" y="-380.527" type="curve"/>
+      <point x="83.108" y="-376.24"/>
+      <point x="93.709" y="-373.029"/>
+      <point x="104.381" y="-368.511" type="curve"/>
+      <point x="115.054" y="-363.993"/>
+      <point x="126.253" y="-358.542"/>
+      <point x="136.643" y="-353.42" type="curve"/>
+      <point x="147.033" y="-348.297"/>
+      <point x="156.733" y="-343.281"/>
+      <point x="166.722" y="-337.777" type="curve"/>
+      <point x="176.71" y="-332.274"/>
+      <point x="186.749" y="-326.243"/>
+      <point x="196.573" y="-320.4" type="curve"/>
+      <point x="206.397" y="-314.557"/>
+      <point x="215.988" y="-308.93"/>
+      <point x="225.664" y="-302.719" type="curve"/>
+      <point x="235.34" y="-296.508"/>
+      <point x="245.323" y="-289.801"/>
+      <point x="254.63" y="-283.134" type="curve"/>
+      <point x="263.938" y="-276.468"/>
+      <point x="272.078" y="-269.03"/>
+      <point x="281.51" y="-262.719" type="curve"/>
+      <point x="290.942" y="-256.408"/>
+      <point x="300.9" y="-247.157"/>
+      <point x="311.22" y="-245.267" type="curve"/>
+      <point x="321.54" y="-243.377"/>
+      <point x="343.429" y="-251.378"/>
+      <point x="343.429" y="-251.378" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.dhivehifontstudio.note</key>
+      <string>IBIFILI (ibifili) U+07A8</string>
+    </dict>
+  </lib>
+</glyph>

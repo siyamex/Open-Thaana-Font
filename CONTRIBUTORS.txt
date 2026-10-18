@@ -1,0 +1,11 @@
+# Contributors
+
+People who have contributed glyph corrections, spacing work, build fixes or
+documentation to Open Thaana.
+
+This list is separate from AUTHORS.txt: being listed here does not make you
+a copyright holder, it records that you helped.
+
+Format: Name <contact> -- what you contributed
+
+(No contributors yet. Open a pull request and add yourself.)
